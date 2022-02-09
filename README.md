@@ -2,7 +2,7 @@
 It is developed by the [Multi-Agent Artificial Intelligence Lab (MAIL)](https://mail-ecnu.cn) in East China Normal University.
 PICO is constructed based on the framework of [*PRIMAL:Pathfinding via Reinforcement and Imitation Multi-Agent Learning*](https://github.com/gsartoretti/PRIMAL) and focuses more on the collision avoidance rather than manual post-processing when collision occurs.
 Exploiting the design of decentralized communication and implicit priority in these secenarios benifits better path finding.
-To emphasis, more details about PICO can be found in our paper [*Multi-Agent Path Finding with Prioritized Communication Learning*](https://arxiv.org/abs/2202.03634), which is accepted by ICRA 2022.
+To emphasis, more details about PICO can be found in our paper [*Multi-Agent Path Finding with Prioritized Communication Learning*](https://arxiv.org/abs/2202.03634), which is accepted by **ICRA 2022**.
 
 ## Distributed Assembly
 Reinforcement learning code to train multiple agents to
@@ -100,7 +100,7 @@ python pico_testing.py
 
 
 ### Citing our work
-If you use this repo in your work, please consider citing the corresponding paper:
+If you use this repo in your work, please consider citing the corresponding paper (the first two authors contribute equally):
 
 ```bibtex
 @InProceedings{lichen2022mapf,
