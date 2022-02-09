@@ -1,5 +1,11 @@
+[![GitHub license](https://img.shields.io/github/license/mail-ecnu/PICO)](https://github.com/mail-ecnu/PICO/blob/master/LICENSE)
+![Read the Docs](https://img.shields.io/readthedocs/pico)
+[![GitHub issues](https://img.shields.io/github/issues/mail-ecnu/PICO)](https://github.com/mail-ecnu/PICO/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mail-ecnu/PICO)](https://github.com/mail-ecnu/PICO/network)
+[![GitHub stars](https://img.shields.io/github/stars/mail-ecnu/PICO)](https://github.com/mail-ecnu/PICO/stargazers)
+
 **PICO** is an algorithm for exploiting Reinforcement Learning (RL) on Multi-agent Path Finding tasks.
-It is developed by the [Multi-Agent Artificial Intelligence Lab (MAIL)](https://mail-ecnu.cn) in East China Normal University.
+It is developed by the [Multi-Agent Artificial Intelligence Lab (MAIL)](https://mail-ecnu.cn) in East China Normal University and the AI Research Institute in [Geekplus Technology Co., Ltd](https://www.geekplus.com/).
 PICO is constructed based on the framework of [*PRIMAL:Pathfinding via Reinforcement and Imitation Multi-Agent Learning*](https://github.com/gsartoretti/PRIMAL) and focuses more on the collision avoidance rather than manual post-processing when collision occurs.
 Exploiting the design of decentralized communication and implicit priority in these secenarios benifits better path finding.
 To emphasis, more details about PICO can be found in our paper [*Multi-Agent Path Finding with Prioritized Communication Learning*](https://arxiv.org/abs/2202.03634), which is accepted by **ICRA 2022**.
