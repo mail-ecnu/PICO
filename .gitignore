@@ -1,0 +1,8 @@
+# Others
+###################
+.git/
+
+# Python stuffs
+###################
+__pycache__/
+model/
