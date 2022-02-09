@@ -106,7 +106,7 @@ python pico_testing.py
 
 
 ### Citing our work
-If you use this repo in your work, please consider citing the corresponding paper (the first two authors contribute equally):
+If you use this repo in your work, please consider citing the corresponding paper (first two authors contributed equally):
 
 ```bibtex
 @InProceedings{lichen2022mapf,
